@@ -8,7 +8,7 @@ background:linear-gradient(to bottom,rgba(4,9,30,0.3),rgba(50,30,20,0.4));
 .header{
 min-height:100vh;
 width:100%;
-background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/20221002_114511.jpg);
+background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(20221002_114511.jpg);
 background-size:cover;
 background-position:center;
 position:relative;
@@ -241,7 +241,7 @@ color:#f44336;
 .enrol{
 margin:auto;
 width:80%;
-background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/FHtbMFcWUBIa1aN.jpg);
+background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(FHtbMFcWUBIa1aN.jpg);
 background-size:cover;
 background-position:center;
 border-radius:10px;
@@ -275,7 +275,7 @@ color:#fd0000;
 .sub-header{
 height:50vh;
 width:100%;
-background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/FKmNakfXoAEz81f.jpg);
+background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(FKmNakfXoAEz81f.jpg);
 background-position:center;
 background-size:cover;
 text-align:center;
